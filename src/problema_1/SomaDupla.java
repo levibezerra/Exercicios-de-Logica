@@ -1,4 +1,4 @@
-package TwoSum;
+package problema_1;
 
 public class SomaDupla {
     public int[] twoSum(int[] nums, int alvo) {
